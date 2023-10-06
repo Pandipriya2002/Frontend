@@ -1,0 +1,62 @@
+.container-21{
+   margin: auto;
+   width:70%;
+   /* height: 700px; */
+   border: 3px solid rgb(16, 20, 102);
+   padding: 50px;
+   display: grid;
+   grid-gap: 0px;
+ 
+
+    /* background-color: aqua; */
+}
+
+ 
+
+.pdetail{
+    margin-left:20px;
+    margin-top: -10px;
+    width: 40%;
+     /* gap: 100px; */   
+}
+
+
+
+ 
+
+.cdetail{
+  
+    margin-left: 600px;
+    margin-top: -480px;
+    /* row-gap:  100px; */
+   
+}
+
+ 
+
+.sell-btn
+{
+
+    margin-right: 500px;
+    margin-left: 400px;
+    margin-top: 30px;
+    width:200px;
+    height: 40px;
+    background: linear-gradient(87deg, #349DFF 78.52%, rgba(32, 145, 250, 0.00) 100%), #FEFAFA;
+
+}
+
+#standard-basic{
+    margin-top: 30px;
+    width: 75%;
+    margin-left: 122px;
+}
+
+#standard-basic label{
+    
+    width: 50px;
+} 
+
+input{
+    width: 220px;
+}

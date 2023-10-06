@@ -1,0 +1,195 @@
+.profile1{
+
+    height: 633px;
+
+    width: 967px;
+
+    background-color: rgb(66, 137, 190);
+
+    align-self:right;
+
+    margin-left: 560px;
+
+    margin-top: -655px;
+
+}
+.main-pro1{
+    font-family: 'Times New Roman';
+}
+ 
+
+.order{
+
+    width: 500px;
+
+    height: 50px;
+
+    margin-top: 10px;
+
+    padding:20px;
+
+    margin-left: 1px;
+
+    font-size: 60%;
+
+    background-color:rgb(66, 137, 190);
+
+ }
+
+ 
+
+ .Address{
+
+     height: 525px;
+
+     width: 542px;
+
+     background-color:rgb(66, 137, 190);
+
+     padding: -3px;
+
+     margin: 0px;
+
+     justify-content: space-between;  
+
+     margin-top: 20px;
+
+     font-size: 90%;
+
+   
+
+ }
+
+ 
+
+ .pro{
+
+     height: 408px;
+
+     width: 70%;
+
+     background-color:rgb(66, 137, 190);
+
+     justify-content: space-between;
+
+     padding-top: 15%;
+
+     margin-left:30%;
+
+     margin-top: -43.5%;
+
+ }
+
+ 
+
+ /* .Addnew{
+
+     color: black;
+
+     background-color: rgb(66, 137, 190);    
+
+ } */
+
+ 
+
+ #Nadd{
+
+    color: black;
+
+    margin-left: 200px;
+
+ }
+
+ .ma{
+
+     color:white;
+
+     text-align: center;
+
+     margin-left: 5px;
+
+     align-content: flex-start;
+
+ }
+
+ 
+
+ 
+
+ #save{
+
+    margin-left: 68%;
+
+    margin-top: 200px;
+
+    width: 150px;
+
+ }
+
+ .new{
+
+    margin-left: 50px;
+
+    border: 20px;
+
+    padding: 1px;
+
+    background-color: white;  
+
+    margin-right: 60px;
+
+    color: black;
+
+ }
+
+ .new,h1{
+
+      color: black;
+
+ }
+
+ .dumadd{
+
+    margin-left: 80px;
+
+    font-size: 20px;  
+
+ }
+
+ 
+
+.dum{
+
+    margin-left: 60px;  
+
+ }
+
+ 
+
+.chennai{
+
+    margin-left: 50px;
+
+    border: 10px;
+
+    padding: -3px;
+
+    background-color: white;
+
+    margin-right: 61px;
+
+ 
+
+ }
+
+.Nadd{
+
+     width: 10px;
+
+ }
+
+.save{
+
+    margin-left: 650px;
+
+ }

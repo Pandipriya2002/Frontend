@@ -1,0 +1,200 @@
+
+
+ 
+
+.container{
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items:center;
+
+    margin: auto ;
+
+    margin-top: 60px;
+
+    height: 700px;
+
+    width: 500px;
+
+    background:#fff ;
+
+}
+
+ 
+
+.header{
+
+    display: flex;
+
+    flex-direction: column;
+
+     align-items:center;
+
+    gap: 9px;
+
+    width: 100%;
+
+    margin-top: -25px;
+
+}
+
+ 
+
+.text{
+
+    color: black ;
+
+    font-size: 38px;
+
+    font-weight: 500;
+	font-family: 'Times New Roman';
+
+}
+
+ 
+
+.underline{
+
+    width: 61px;
+
+    height: 6px;
+
+    background:blue ;
+
+    border-radius: 9px;
+
+}
+
+ 
+
+ 
+
+.Login{
+
+    text-align: center;
+
+    background-color:rgb(24, 231, 24);
+
+    }
+
+   
+
+    .label{
+
+    display: flex;
+
+    font-size: larger;
+
+    color: black;
+
+    padding: 5px;
+
+    }
+
+   
+
+    .input{
+
+    font-size: unset ;
+
+    padding: 8px;
+
+    margin: 5px;
+
+    text-align: center;
+
+    text-align-last: center;
+
+    width: 443px;
+
+    border-radius: 15px;
+
+ 
+
+    }
+
+    .btn{
+
+    color: white;
+
+    border : 1px solid #2091FA;
+
+    background: linear-gradient(87deg, #349DFF 78.52%, rgba(32, 145, 250, 0.00) 100%), #FEFAFA;
+
+    border-radius: 15px;
+
+    font-size: larger;
+
+    display: inherit;
+
+    padding: 4px 75px;
+
+    margin: 15px;
+
+    }
+
+   
+
+    .messages{
+
+    display: flex;
+
+    justify-content: center;
+
+    }
+
+   
+
+    .error{
+
+    display: block;
+
+    background-color: red;
+
+    color: white;
+
+    width: fit-content;
+
+    height: 50px;
+
+    padding: 5px;
+
+    }
+
+   
+
+    .success{
+
+    display: block;
+
+    background-color: lightblue;
+
+    color: black;
+
+    width: fit-content;
+
+    height: 50px;
+
+    padding: 5px;
+
+    }
+
+    .inputs{
+
+        display:inline-flex;
+
+    align-items: center;
+
+    margin: 11px;
+
+    width: 556px;
+
+    background: #eaeaea;
+
+    border-radius: 6px;
+
+    padding-left: 76px;
+
+    }
